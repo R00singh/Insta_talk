@@ -10,7 +10,7 @@ import { persistStore } from 'redux-persist';
 
 let persistor = persistStore(store);
 
-export const BASE_URL="insta-talk-gl8jvw3qk-rupesh-singhs-projects.vercel.app"
+export const BASE_URL="https://insta-talk.vercel.app/"
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
